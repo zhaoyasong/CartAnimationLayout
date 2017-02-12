@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewTabLayoutDemo.iml" filepath="$PROJECT_DIR$/NewTabLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cartainlayout/cartainlayout.iml" filepath="$PROJECT_DIR$/cartainlayout/cartainlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylistview/mylistview.iml" filepath="$PROJECT_DIR$/mylistview/mylistview.iml" />
+    </modules>
+  </component>
+</project>
